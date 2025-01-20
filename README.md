@@ -64,3 +64,6 @@ for (list of lists) {
 }
 ```
 ## Demo.gif
+
+
+![Image](https://github.com/user-attachments/assets/a8dee2b0-e356-45fd-a4d1-f7650f213d9a)
