@@ -1,5 +1,9 @@
 # 🖱️ Drag & Drop Using JavaScript
 
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/a8dee2b0-e356-45fd-a4d1-f7650f213d9a)
+
 A dynamic **drag and drop** interface built with JavaScript, HTML, and CSS. This project enables users to drag list items between two containers, showcasing the power of event handling in JavaScript.
 
 ---
@@ -63,7 +67,25 @@ for (list of lists) {
     });
 }
 ```
-## Demo.gif
+
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
 
 
-![Image](https://github.com/user-attachments/assets/a8dee2b0-e356-45fd-a4d1-f7650f213d9a)
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
